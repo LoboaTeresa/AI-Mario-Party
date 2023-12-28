@@ -36,7 +36,7 @@ git clone https://github.com/LoboaTeresa/AI-Mario-Party.git
 pip install -r requirements.txt
 ```
 
-1. Train the model (optional). You can skip this step if you want to use the model we have already trained. The code for training your own model can be found [here](docs/train_woomba_detector.ipynb), and the dataset is stored in the ´./assets/det_dataset´ folder. A more detailed explanation can be found in [this](https://github.com/LoboaTeresa/Workshop-COF-23) other repository.
+6. Train the model (optional). You can skip this step if you want to use the model we have already trained. The code for training your own model can be found [here](docs/train_woomba_detector.ipynb), and the dataset is stored in the ´./assets/det_dataset´ folder. A more detailed explanation can be found in [this](https://github.com/LoboaTeresa/Workshop-COF-23) other repository.
 
 
 ## 🚀 Usage
@@ -52,7 +52,7 @@ python3 main.py
 ```
 A pop up will come up showing a list of available minigames.
 
-1. Start the minigame and immediatelly after, click on the pop up to select the minigame you want to play. Let the AI play for you!
+4. Start the minigame and immediatelly after, click on the pop up to select the minigame you want to play. Let the AI play for you!
 
 ## 🩺 Project Roadmap
 [Back to Top](#-mario-party-ai-woomba-grangler-master-)

@@ -42,15 +42,17 @@ pip install -r requirements.txt
 ## 🚀 Usage
 [Back to Top](#-mario-party-ai-woomba-grangler-master-)
 
-1. Run the game: open Mario Party DS with DesSmuME and start a goomba wrangler game in the Minigame mode.
+1. Run the game: open Mario Party DS wit
 
-2. Run the script:
+2. Unzip the ´./models/train2.zip´ file.
+
+3. Run the script:
 ```
 python3 main.py
 ```
 A pop up will come up showing a list of available minigames.
 
-3. Start the minigame and immediatelly after, click on the pop up to select the minigame you want to play. Let the AI play for you!
+1. Start the minigame and immediatelly after, click on the pop up to select the minigame you want to play. Let the AI play for you!
 
 ## 🩺 Project Roadmap
 [Back to Top](#-mario-party-ai-woomba-grangler-master-)
